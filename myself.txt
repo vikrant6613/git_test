@@ -1,7 +1,1 @@
 My name is vikrant
-<<<<<<< HEAD
-I stay in hyderabad
-I work at Netbrain
-=======
-I stay in hyderabad
->>>>>>> parent of 15d6dcf (forth commit)
